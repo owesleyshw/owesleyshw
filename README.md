@@ -2,9 +2,9 @@
 import Desenvolvedor from 'owesleyshw';
 
 class SobreMim extends Desenvolvedor {
-  nome     = 'Wesley Júnior';
-  area    = 'Desenvolvimento Web';
-  trabalho  = 'Freelancer';
+  nome = 'Wesley Júnior';
+  area = 'Desenvolvimento Web';
+  trabalho = 'Freelancer';
   local = 'Barra do Garças';
 }
 
